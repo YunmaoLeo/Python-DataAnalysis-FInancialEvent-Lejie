@@ -1,5 +1,5 @@
 # Python-DataAnalysis-FInancialEvent-Lejie
-Influence of Merge &amp; Acquisition on Stock  
+基于并购事件的企业ROA、ROE、地点的简单数据可视化
 
 部分可视化成果:  
 
