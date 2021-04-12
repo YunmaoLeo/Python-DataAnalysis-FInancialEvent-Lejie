@@ -1,6 +1,8 @@
 # Python-DataAnalysis-FinancialEvent-Lejie
 基于并购事件的企业ROA、ROE、地点的数据可视化  
-  
+
+四变量矩阵图<br>
+<img src = '/image/MatrixPlot.jpg' ><br>
 使用Groupby生成数据透视图查看各省份的平均ROA,ROE<br>
 <img src = '/image/GroupbyPro.jpg' >
 <br>
