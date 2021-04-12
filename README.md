@@ -16,7 +16,7 @@ ROA与ROE联合分布图的HEX形式<br>
 使用高斯混合模型实现的聚类<br>
 <img src = '/image/GMM.png' ><br>
 
-统计各个省份在M&A发起地中出现的数量<br>
+统计各个省份在M&A发起地中出现的频次<br>
 <img src = '/image/ProCount.jpg' ><br>
 
 使用并购事件的发生地点生成词云分析<br>
