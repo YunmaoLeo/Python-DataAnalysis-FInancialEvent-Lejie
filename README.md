@@ -20,7 +20,7 @@ ROA与ROE联合分布图的HEX形式<br>
 <img src = '/image/ProCount.jpg' ><br>
 
 使用并购事件的发生地点生成词云分析<br>
-<img src = '/image/TarCity.png'，'width'=600,'height'=600><br>
+<img src = '/image/TarCity.png'><br>
   
 选取部分股票进行两年际ROA对比<br>
 <img src = '/image/ROAtable.png'>
