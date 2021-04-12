@@ -2,7 +2,7 @@
 基于并购事件的企业ROA、ROE、地点的数据可视化  
   
 使用Groupby生成数据透视图查看各省份的平均ROA,ROE  
-<img src = '/image/GroupbyPro.jpg' width = '500' height ='70'>  
+<img src = '/image/GroupbyPro.jpg' width = '500' height ='700'>  
   
 ROA与ROE联合分布图的HEX形式  
 <img src = '/image/JointPlotHex.jpg' width = '500' height ='600'>  
