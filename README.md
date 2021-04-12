@@ -1,4 +1,4 @@
-# Python-DataAnalysis-FInancialEvent-Lejie
+# Python-DataAnalysis-FinancialEvent-Lejie
 基于并购事件的企业ROA、ROE、地点的数据可视化  
   
 使用Groupby生成数据透视图查看各省份的平均ROA,ROE<br>
