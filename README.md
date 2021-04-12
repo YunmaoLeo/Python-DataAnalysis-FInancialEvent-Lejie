@@ -17,7 +17,7 @@ ROA与ROE联合分布图的HEX形式<br>
 <img src = '/image/GMM.png' width = '700' height ='700'><br>
 
 统计各个省份在M&A发起地中出现的数量<br>
-<img src = '/image/JointPlotHex.jpg' width = '700' height ='600'><br>
+<img src = '/image/ProCount.jpg' width = '700' height ='600'><br>
 
 使用并购事件的发生地点生成词云分析<br>
 <img src = '/image/TarCity.png' width = '700' height ='700'><br>
